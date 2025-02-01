@@ -20,9 +20,9 @@ export const Todolist =({data,handleDelete,handleCheck,checked})=>{
     }
     return(
         <li className="min-w-80 h-10 bg-white text-black rounded-lg flex gap-2 justify-between items-center text-xl" style={{margin:"20px"}}>
-        <span className={checked ? "isChecked" :"NoChecked"}>{data}</span>
+        <span className={checked ? "line-through" :" "}>{data}</span>
         <span className="flex gap-6">
-        <h2 className={checked?"dateNoCheck":"dateCheck"}>{date}</h2>
+        <h2 className={`${checked?"text-red-500":"text-green-500"} font-bold`}>{date}</h2>
         <button className="text-2xl" onClick={()=>handleChecklist(data)}><FaRegCheckCircle/></button>
         <button className="text-2xl" onClick={()=> handleListDelete(data)}><MdDelete/></button>
         </span>
