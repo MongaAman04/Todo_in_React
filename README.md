@@ -31,7 +31,7 @@ To get started with the TODO website, follow these steps:
 
 Feel free to reach out if you have any questions or feedback:
 
-- **Email:** amanmonga000@gmail.com
+- **Email:** amanmonga.career@gmail.com
 - **LinkedIn:**(https://www.linkedin.com/in/aman-monga-4b30ab24b/)
 
 ## Contributing
