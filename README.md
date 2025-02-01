@@ -26,3 +26,14 @@ To get started with the TODO website, follow these steps:
 
    ```bash
    git clone https://github.com/MongaAman04/Todo_in_React.git
+
+## Contact
+
+Feel free to reach out if you have any questions or feedback:
+
+- **Email:** amanmonga000@gmail.com
+- **LinkedIn:**(https://www.linkedin.com/in/aman-monga-4b30ab24b/)
+
+## Contributing
+
+Contributions are welcome! If you'd like to enhance the player or fix any issues, feel free to submit pull requests or open issues.
