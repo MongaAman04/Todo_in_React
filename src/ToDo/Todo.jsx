@@ -2,7 +2,6 @@ import { useEffect, useState } from "react"
 import { TodoForm } from "./TodoForm";
 import { Todolist } from "./Todolist";
 import { TodoDateTime } from "./TodoDate";
-import "./todo.css"
 import { GetDataFromLocalStorage, SetDataAtLocalStorage } from "./TodoLocalStorage";
 
 export const Todo = () => {

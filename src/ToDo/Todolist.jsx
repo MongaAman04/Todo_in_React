@@ -1,6 +1,5 @@
 import { FaRegCheckCircle } from "react-icons/fa";
 import { MdDelete } from "react-icons/md";
-import "./todo.css"
 import { useEffect, useState } from "react";
 export const Todolist =({data,handleDelete,handleCheck,checked})=>{
    const [date,SetDate] = useState("");
